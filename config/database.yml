@@ -23,3 +23,15 @@ test:
 production:
   <<: *default
   database: db/production.sqlite3
+
+
+#development:
+#  adapter: mysql
+#  database: boot
+#  encoding: utf8
+#  username: root
+#  password: 123
+#  port: 3306
+#  host: localhost
+#  pool: 5
+#  timeout: 5000
