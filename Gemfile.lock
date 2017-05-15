@@ -75,11 +75,6 @@ GEM
     mini_portile2 (2.1.0)
     minitest (5.10.1)
     multi_json (1.12.1)
-<<<<<<< HEAD
-=======
-    nokogiri (1.7.1)
-      mini_portile2 (~> 2.1.0)
->>>>>>> 5ab251ce6db1cfe6a2489d2e88ea4ce34ea44009
     nokogiri (1.7.1-x64-mingw32)
       mini_portile2 (~> 2.1.0)
     rack (1.6.6)
@@ -128,10 +123,6 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
-<<<<<<< HEAD
-=======
-    sqlite3 (1.3.13)
->>>>>>> 5ab251ce6db1cfe6a2489d2e88ea4ce34ea44009
     sqlite3 (1.3.13-x64-mingw32)
     thor (0.19.4)
     thread_safe (0.3.6)
@@ -152,17 +143,10 @@ GEM
       sprockets-rails (>= 2.0, < 4.0)
 
 PLATFORMS
-<<<<<<< HEAD
   x64-mingw32
 
 DEPENDENCIES
   bootstrap-sass (= 3.2.0.0)
-=======
-  ruby
-  x64-mingw32
-
-DEPENDENCIES
->>>>>>> 5ab251ce6db1cfe6a2489d2e88ea4ce34ea44009
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
