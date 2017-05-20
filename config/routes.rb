@@ -11,7 +11,6 @@ Rails.application.routes.draw do
   # 使得user模型支持rest风格
   get 'sign_up' => 'users#new'
   resources :users
-  resources :sessions
 
   # 使用session进行登陆状态的记录
   get 'login' => 'sessions#new'
